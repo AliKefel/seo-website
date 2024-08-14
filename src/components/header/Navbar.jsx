@@ -51,7 +51,7 @@ const Navbar = () => {
                 </div>
 
                 <div className=' md:hidden  ml-auto flex mt-2'> 
-                    <button onClick={() => setisOpen(!isOpen)} className='text-3xl md:hidden md:mr-4 md:mt-6 text-white ml-auto flex '>
+                    <button onClick={() => setIsOpen(!isOpen)} className='text-3xl md:hidden md:mr-4 md:mt-6 text-white ml-auto flex '>
 
                         {
                             isOpen ?     <ion-icon className='ml-auto' name="close-outline"></ion-icon> : <ion-icon name="grid-outline"></ion-icon> 
