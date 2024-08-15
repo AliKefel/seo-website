@@ -14,7 +14,7 @@ html {
 }
 
 .app-background{
-  background-image: url('src/assets/blurry-gradient-haikei.png');
+  background-image: url('assets/blurry-gradient-haikei.png');
   background-position: center;
   background-size: cover;
   min-height: 100vh;
