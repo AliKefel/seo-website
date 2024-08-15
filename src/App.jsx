@@ -11,6 +11,7 @@ import CaseStudy from './pages/CaseStudy'
 
 function App() {
   return (
+    <>
       <div className='app-background'>
         <Navbar />
         <Routes>
@@ -25,6 +26,7 @@ function App() {
         </Routes>
         <Footer />
       </div>
+      </>
   );
 }
 

@@ -18,7 +18,7 @@ const Home = () => {
                     <span className="font-bold tracking-normal text-nowrap text-ellipsis text-5xl lg:text-7xl text-Black" > Generate SEO </span>
                 </div>
             </div>
-
+             
             <div className=" md:w-1/2 w-4/5 ml-6 mr-6 ">
                 <div className=" h-full gap-1 md:gap-2 " >
                     <span className="tracking-wide leading-10 text-wrap text-ellipsis text-xl md:text-md text-white" >At Generate SEO, we specialize in elevating your online presence through expert Search Engine Optimization. Our dedicated team leverages cutting-edge strategies to enhance your visibility, drive organic traffic, and boost your business growth. Join us on a journey to achieve your digital marketing goals and stand out in the competitive online landscape.  </span>
