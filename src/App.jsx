@@ -15,9 +15,11 @@ function App() {
       <div className='app-background'>
         <Navbar />
         <Routes>
+          <Route path="/" element={<HomeLayout />}>
             <Route index element={<Home />} />
             <Route path="/about" element={<About />} />
             <Route path="/services" element={<Services />} />
+          </Route>
           <Route path="/who-are-we" element={<WhoAreWe />} />
           <Route path="/case-study" element={<CaseStudy />} />
 
